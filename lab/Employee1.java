@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Employee {
+class Employee1 {
     public static void main(String[] args) {
 
         // Scanner for input
